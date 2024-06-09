@@ -1,0 +1,6 @@
+.venv
+__pycache__
+resume.pdf
+token.json
+credentials.json
+recruiters.xlsx

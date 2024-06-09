@@ -1,0 +1,7 @@
+YOUR_NAME = 'Aayush Joshi'
+YOUR_EMAIL = 'joshiaayush1244@gmail.com'
+POSITION = 'Machine Learning Intern'
+FIELD = 'machine learning'
+GPA = '8.8'
+PROJECT_DESCRIPTIONS = 'In my recent projects, I\'ve demonstrated proficiency in machine learning and its applications. For instance, I developed a Snake Game Learner using Python, PyTorch, Pygame, and reinforcement learning, allowing for local training and interactive gameplay. Additionally, I implemented Emotion Detection from Videos using Python, PyTorch, YOLO, ResNet, and OpenCV, classifying seven emotions with pre-trained models for easy deployment on Linux. Furthermore, I conducted Loan Approval Prediction using Python and Scikit-Learn, employing exploratory data analysis and grid search cross-validation to optimize model selection. These projects showcase my versatile skill set and problem-solving abilities in machine learning'
+PHONE_NUMBER = '7568488933'
